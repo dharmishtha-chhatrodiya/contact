@@ -1,0 +1,5 @@
+// Get contact data
+export const GET_CONTACT_DATA = 'GET_CONTACT_DATA'
+export const CONTACT_ERROR = 'CONTACT_ERROR'
+export const CONTACT_LOADING = 'CONTACT_LOADING'
+export const GET_SINGLE_CONTACT = 'GET_SINGLE_CONTACT'
